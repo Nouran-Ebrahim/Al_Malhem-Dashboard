@@ -1,0 +1,13 @@
+{
+    "name": "Volunteering",
+    "alias": "volunteering",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Volunteering\\Providers\\VolunteeringServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

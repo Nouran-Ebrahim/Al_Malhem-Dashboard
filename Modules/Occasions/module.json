@@ -1,0 +1,13 @@
+{
+    "name": "Occasions",
+    "alias": "occasions",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Occasions\\Providers\\OccasionsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

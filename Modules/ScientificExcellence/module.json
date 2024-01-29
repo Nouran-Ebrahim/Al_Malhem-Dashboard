@@ -1,0 +1,13 @@
+{
+    "name": "ScientificExcellence",
+    "alias": "scientificexcellence",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ScientificExcellence\\Providers\\ScientificExcellenceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

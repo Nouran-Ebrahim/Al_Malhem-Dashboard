@@ -1,0 +1,13 @@
+{
+    "name": "HumanService",
+    "alias": "humanservice",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\HumanService\\Providers\\HumanServiceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

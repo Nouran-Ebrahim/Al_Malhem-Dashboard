@@ -1,0 +1,18 @@
+{
+    "Common": true,
+    "Admin": true,
+    "Employee": false,
+    "Client": true,
+    "Category": false,
+    "School": true,
+    "Notification": true,
+    "Country": true,
+    "News": true,
+    "Occasions": true,
+    "Meeting": true,
+    "Volunteering": true,
+    "Calender": true,
+    "HumanService": true,
+    "ScientificExcellence": true,
+    "WelcomeMessage": true
+}
